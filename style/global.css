@@ -30,7 +30,7 @@
     --fs-base: 1rem;
     --fs-sm: 0.875rem;
 
-    
+
 }
 
 html, button{
@@ -50,4 +50,9 @@ h1{
 h2{
     font-size: var(--fs-lg);
     line-height: 1.2;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
 }
