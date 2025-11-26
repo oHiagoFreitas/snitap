@@ -3,6 +3,7 @@ header{
     width: 100%;
     padding-block: 2rem;
     padding-inline: 1.25rem;
+    margin-inline: auto;
 
     display: flex;
     justify-content: space-between;
